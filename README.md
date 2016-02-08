@@ -8,5 +8,5 @@ Initial setup (using Ubuntu 15.10)
 
 sudo apt-get install python-dev python-pip -y 
 
-sudo pip install paramiko -y 
+sudo pip install paramiko
 
