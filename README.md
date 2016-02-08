@@ -5,6 +5,8 @@ This is a simple SSH Client I would like to use at home on my Local area network
 Decided to use Paramiko to complete this task
 
 Initial setup (using Ubuntu 15.10)
-	sudo apt-get install python-dev python-pip 
-	sudo pip install paramiko
+
+sudo apt-get install python-dev python-pip -y 
+
+sudo pip install paramiko -y 
 
